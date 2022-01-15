@@ -1,15 +1,15 @@
 User = input("Username =")
 Pass = input("Password =")
-if  User == "chayodom" and Pass == "thamakorn":
+if  User == "admin" and Pass == "admin":
     print("--------------------------")
-    print("Welcome To Chayodom's Shop")
+    print("Welcome To Admin Supermarket")
     print("--------------------------")
     print("Menu")
     print("No.1 : Banana (Price 50)")
     print("No.2 : Cake (Price 70)")
     print("No.3 : Apple (Price 80)")
     print("--------------------------")
-    print("Please Select no. of menu")
+    print("Please Select No. of menu")
     x = int(input("No. ="))
     if  x==1:
         NoBanana = int(input("Please input amount of Banana ="))
