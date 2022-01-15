@@ -1,6 +1,3 @@
-from ast import Pass
-
-
 User = input("Username =")
 Pass = input("Password =")
 if  User == "chayodom" and Pass == "thamakorn":
