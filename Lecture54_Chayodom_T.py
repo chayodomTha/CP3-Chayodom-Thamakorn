@@ -1,6 +1,3 @@
-from unittest import result
-
-
 def login():
     usernameInput = input("Username : ")
     passwordInput = input("Password : ")
